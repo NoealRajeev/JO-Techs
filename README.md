@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JO-Techs&hide_border=true&theme=transparent" /> 
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JO-Techs&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-bg=true&no-frame=true&row=2&column=3" alt="Trophies">
+</div>
